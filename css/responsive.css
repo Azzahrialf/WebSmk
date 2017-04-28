@@ -1,0 +1,127 @@
+@media screen and (max-width:1200px){
+	nav .wrapper-nav {
+		width: 100%;
+	}
+	.one a{
+		display: none;
+	}
+	nav{
+		background: transparent;
+	}
+	nav ul li {
+		width: 100%;
+		padding:20px 0px;
+	}
+	.wrapper-nav img{
+		display: none;
+	}
+	nav ul {
+		float: none;
+		max-height: 0em;
+	}
+	nav ul li {
+		text-align: center;
+	}
+	nav ul li:hover{
+		background-color: #FFC153;
+	}
+	nav ul li a{
+		color: #000;
+	}
+	nav img {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.handle {
+		margin-top: -25px;
+		position: relative;
+		display: block;
+		background: #fff;
+		height: 50px;
+	 }
+	 .handle i{
+	 	margin-top: 15px;
+	 	text-align: right;
+	 	font-size: 25px;
+	 	color: #000;
+	 }
+	.showing{
+		margin-top: 2px;
+		background: #fff;
+		max-height: 25em;
+		width: 100%;
+	}
+	.one{
+		color: inherit;
+		position: relative;
+		z-index: 99;
+		left: 30px;
+	}
+	.agent img{
+		width: 100%;
+		position: relative;
+		top: -50px;
+	}
+	.cheff h1{
+		width: 100%;
+		margin-top: 30px;
+		position: relative;
+		left: -300px;
+
+	}
+	.cheff p{
+		width: 80%;
+		position: relative;
+		left: 60px;
+	}
+	.fear img{
+		width: 100%;
+		margin-top: 500px;
+	}
+	.right h1{
+		position: relative;
+		top: 70px;
+	}
+	.right p{
+		width: 80%;
+		margin-top: 100px;
+	}
+	.fight a{
+		float: left;
+	}
+	.col-12 img{
+		width: 100%;
+		margin-left: -50px;
+	}
+	.col-3 {
+		margin-left: -0px;
+		width: 80%; 
+	}
+	.col-5{
+		width: 100%;
+	}
+	.col-5 h1{
+		width: 90%;
+	}
+	.col-5 h2{
+		text-align: center;
+	}
+	.mobile-partner{
+		width: 100%;
+		margin-bottom: 120px;
+	}
+	.glory{
+		width: 100%;
+		margin-left: 0px;
+	}
+	iframe{
+		width: 100%;
+		position: relative;
+		top: 480px;
+		left: 100px;
+	}
+	.wrapper-footer {
+		position: relative;
+		top: 420px;
+	}
